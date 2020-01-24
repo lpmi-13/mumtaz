@@ -30,6 +30,11 @@ Micromaterials for learning Sanskrit: http://sanskritsadhu.guru/#/
 * [Devanagari Letters](https://commons.wikimedia.org/wiki/Category:Devanagari_letters)
 * [Sanskrit 1: Beginners](https://www.conted.ox.ac.uk/courses/sanskrit-1-beginners?code=O18P638XNW)
 
+## Development
+
+- run `npm run build` after cloning, this creates the dependencies in `src/components`.
+- then `npm start` should start up the local development server on port 8080.
+
 ## Deployment
 
 Using [Surge](https://surge.sh/).
